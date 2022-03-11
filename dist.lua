@@ -9,7 +9,7 @@ Config.Strings.passedMatch = '{"banned":false}'                    --Bir bilgi g
 ----------------------------------------------------------------
 
 -----------------------------
--- Ana sunucularımıza ulaşılamaması durumunda oyuncuya gösterilecek satırdır. (EĞER STRICT MODE AÇIKSA)
+-- Ana sunucularımıza ulaşılamaması durumunda oyuncuya gösterilecek satırdır. (EĞER STRICT MODE AÇIKSA).
 Config.Strings.strictModeRejection = "Şu an için sunucuya yapılan girişlerin doğrulanmasıyla alakalı bir sorun mevcut. Lütfen daha sonra tekrar deneyiniz." 
 -----------------------------
 
@@ -19,7 +19,7 @@ Config.Strings.standardRejection = "[m3-admin] sunucumuzdan kalıcı olarak yasa
 -----------------------------
 
 -----------------------------
--- Sunucularımıza kontrol için ulaşılamamsı durumunda bile tüm girişleri reddetmek için 'true' yapabilirsiniz
+-- Sunucularımıza kontrol için ulaşılamamsı durumunda bile tüm girişleri reddetmek için 'true' yapabilirsiniz.
 Config.Settings.strictMode = false
 -----------------------------
 
@@ -31,7 +31,7 @@ Config.snooperMode = true
 -----------------------------
 
 -----------------------------
--- Girişine müsaade edilmemiş oyuncuların logunun düşeceği webhook
+-- Girişine müsaade edilmemiş oyuncuların logunun düşeceği webhook.
 Config.playerRejectedWebhook = "" 
 -- Sistem ve fonkisyonlarıyla alakalı muhtelif bilgilerin düşeceği webhook.
 Config.standardWebhook = "" 
