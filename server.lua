@@ -162,4 +162,4 @@ function playerIsBypassed(idlist)
     return result
 end
 
-print("^5MTRGB | Fivemturk Global Ban Listesi Aktiftir.")
+print("^2[5MTRGB] ^0| ^1Fivemturk Global Ban Listesi Aktiftir.")
