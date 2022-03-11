@@ -45,6 +45,7 @@ Config.Bypasses = {
     "steam:ornek",
     "discord:örnek ama kopyala yaıştır yaparken sondaki boşluklara dikkat edelim!             "
 }
+-----------------------------
 
 --[[
 
