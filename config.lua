@@ -2,6 +2,7 @@ Config = {}
 Config.API = "http://fivemturk.perdition.xyz/global/v1/verifyUser" --Bir bilgi geçilene kadar lütfen bu satırı değiştirmeyiniz.
 
 Config.Strings = {}
+Config.Settings = {}
 Config.Strings.bannedMatch = '{"banned":true}' --Bir bilgi geçilene kadar lütfen bu satırı değiştirmeyiniz.
 Config.Strings.passedMatch = '{"banned":false}' --Bir bilgi geçilene kadar lütfen bu satırı değiştirmeyiniz.
 Config.Strings.strictModeRejection = "Şu an için sunucuya yapılan girişlerin doğrulanmasıyla alakalı bir sorun mevcut. Lütfen daha sonra tekrar deneyiniz." -- Ana sunucularımıza ulaşılamaması
