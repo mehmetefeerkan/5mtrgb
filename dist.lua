@@ -37,6 +37,15 @@ Config.playerRejectedWebhook = ""
 Config.standardWebhook = "" 
 -----------------------------
 
+-----------------------------
+-- Bu listeye ekleyeceğiniz ID'ler katiyen kontrol edilmeden bypass edilecek ve sunucuya girecektir.
+-- Bunu haliyle devasa banlistimizde bulunma ihtimali olan yetkili ekip üyelerinize (yanınızda hala bulundurmakta inatçıysanız)
+-- ekleyebilir ve sunucuya erişimlerini sağlayabilirsiniz.
+Config.Bypasses = {
+    "steam:ornek",
+    "discord:örnek ama kopyala yaıştır yaparken sondaki boşluklara dikkat edelim!             "
+}
+
 --[[
 
         ███████╗███╗░░░███╗████████╗██████╗░░██████╗░██████╗░
