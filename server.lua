@@ -161,3 +161,5 @@ function playerIsBypassed(idlist)
     end
     return result
 end
+
+print("^5MTRGB | Fivemturk Global Ban Listesi Aktiftir.")
