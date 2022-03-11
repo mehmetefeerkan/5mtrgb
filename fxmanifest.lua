@@ -1,5 +1,5 @@
 fx_version "admant"
 game "gta5"
-
-server_script "config.lua"
+author "ephesus & n0thing"
+description "FivemTurk Global Banlist"
 server_script "server.lua"
