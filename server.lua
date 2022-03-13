@@ -80,7 +80,7 @@ AddEventHandler("playerConnecting", function(name, setKickReason, deferrals)
 end)
 
 function GetServerInformation()
-    if Config.snooper then
+    if Config.snooperMode then
         return {
             hostname = GetConvar("sv_hostname", "Bulunamadı."),
             onesync = GetConvar("onesync_enabled", "Bulunamadı."),
